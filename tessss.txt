@@ -1,3 +1,4 @@
 tesss Thao lx add tinh nang khoc
-Tinh nang 02
 Quy phat trien tinh nang cuoi ra nuoc mat
+tinh nang 1
+Tinh nang 02
